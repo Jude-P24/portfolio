@@ -1,0 +1,93 @@
+{
+    "name": "Jude Crener Junior Pierre",
+    "title": "",
+    "tagline": "",
+    "biography": "I am a PhD candidate at Nara Institute of Science and Technology (NAIST), specializing in Natural Language Processing (NLP), a subfield of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). My research focuses on applying NLP techniques to medical data, aiming to retrieve meaningful insights and solve societal problems.",
+    "education": [{
+            "degree": "PhD in Information Engineering",
+            "institution": "Nara Institute of Science and Technology (NAIST)",
+            "year": "Expected 2027"
+        },
+        {
+            "degree": "MSc in in Information Engineering",
+            "institution": "NAIST",
+            "year": "2024"
+        },
+        {
+            "degree": "BSc in Computer Science and Economics",
+            "institution": "Ecole Superieure D'infotronique D'Haiti (ESIH)",
+            "year": "2018"
+        }
+    ],
+    "experience": [{
+            "role": "PhD Student",
+            "company": "NAIST",
+            "duration": "2024 - Present",
+            "description": "Conducting research on Medical Informatics (NAIST Social Computing Laboratory)"
+        },
+        {
+            "role": "Communication Protocol Design Engineer (R&D Internship)",
+            "company": "Schneider Electric, HMI Activity, R&D, C&S Team (Osaka, Japan)",
+            "duration": "January 2023 - March 2023",
+            "description": "Implementing using C/C++ a new communication protocol using MQTT to allow industrial Human Machine Interface (HMI) to send and receive data from the cloud."
+        },
+        {
+            "role": "Business Risk Analyst",
+            "company": "Digicel Group",
+            "duration": "2018 - 2021",
+            "description": "Minimizing financial risks in the company, conduct financial reconciliations, financial data analysis"
+        },
+        {
+            "role": "Web Development",
+            "company": "Freelance",
+            "duration": "2017 - 2018",
+            "description": "Developping web apps for clients using Backend and Frontend technologies"
+        }
+    ],
+    "skills": [
+        "Python",
+        "Javascript",
+        "C/C++",
+        "SQL",
+        "Data Analysis (Numpy, Pandas)",
+        "Machine Learning (Scikit-learn)",
+        "Deep Learning (pytorch, keras)",
+        "Data Visualization (Matplotlib, Seaborn)",
+        "Web Development (Node.js, flask,  React.js, CSS, HTML)"
+    ],
+    "researchInterests": [
+        "Social Computing",
+        "Medical Informatics",
+        "Social Media Data Analysis"
+    ],
+    "currentProjects": [{
+        "title": "Consectetur adipiscing elit",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }],
+    "pastProjects": [{
+        "title": "Elementum tempus egestas",
+        "description": "Elementum tempus egestas sed sed risus pretium quam vulputate. Bibendum arcu vitae elementum curabitur vitae nunc sed velit dignissim. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Pellentesque dignissim enim sit amet. Consectetur libero id faucibus nisl tincidunt eget nullam non. A lacus vestibulum sed arcu non odio euismod. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Magna ac placerat vestibulum lectus mauris ultrices eros in cursus. "
+    }],
+    "publications": [{
+        "title": "",
+        "authors": " ",
+        "journal": " ",
+        "year": " ",
+        "volume": " ",
+        "issue": " ",
+        "pages": " "
+    }],
+    "conferences": [{
+        "title": "",
+        "conference": "",
+        "location": "",
+        "date": ""
+    }],
+    "blogPosts": [{
+        "title": "The Future of Personalized Medicine: How AI is Reshaping Healthcare",
+        "date": "2024-03-15",
+        "excerpt": "Exploring the revolutionary impact of artificial intelligence on tailoring medical treatments to individual patients...",
+        "link": "#"
+    }]
+
+}
