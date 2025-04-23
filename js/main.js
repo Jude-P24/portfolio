@@ -68,7 +68,7 @@ function populateContent(data) {
         </div>
     `).join('');
 
-    document.getElementById('social-media').innerHTML = `
+    document.getElementById('social-media').innerHTML = ` 
         <p>Email: ${data.contact.email}</p>
         <p>LinkedIn: <a href="${data.contact.linkedin}">${data.contact.linkedin}</a></p>
         <p>ResearchGate: <a href="${data.contact.researchgate}">${data.contact.researchgate}</a></p>
