@@ -17,19 +17,19 @@ function populateContent(data) {
     document.getElementById('education').innerHTML = data.education.map(edu => `
         <div>
             <h3>${edu.degree}</h3>
-            <p>${edu.institution}, ${edu.year}</p>
+            <p><li>${edu.institution}, ${edu.year}</li></p>
         </div>
     `).join('');
 
     document.getElementById('work-experience').innerHTML = data.experience.map(exp => `
         <div>
             <h3>${exp.role}</h3>
-            <p>${exp.company}, ${exp.duration}</p>
-            <p>${exp.description}</p>
+            <p><li>${exp.company}, ${exp.duration}</li></p>
+            <p><ul><li>${exp.description}</li></ul></p>
         </div>
     `).join('');
 
-    document.getElementById('skills').innerHTML = `<ul>${data.skills.map(skill => `<li>${skill}</li>`).join('')}</ul>`;
+    document.getElementById('skills').innerHTML = `${data.skills.map(skill => `<li>${skill}</li>`).join('')}`;
 
     document.getElementById('research-interests').innerHTML = `<p>${data.researchInterests.join(', ')}</p>`;
 
@@ -47,15 +47,15 @@ function populateContent(data) {
         </div>
     `).join('');
 
-    document.getElementById('journal-papers').innerHTML = data.publications.map(pub => `
-        <div>
-            <p>${pub.authors}. (${pub.year}). ${pub.title}. ${pub.journal}, ${pub.volume}(${pub.issue}), ${pub.pages}.</p>
-        </div>
-    `).join('');
+    // document.getElementById('journal-papers').innerHTML = data.publications.map(pub => `
+    //     <div>
+    //         <p>${pub.authors}. (${pub.year}). ${pub.title}. ${pub.journal}, ${pub.volume}(${pub.issue}), ${pub.pages}.</p>
+    //     </div>
+    // `).join('');
 
     document.getElementById('conference-presentations').innerHTML = data.conferences.map(conf => `
         <div>
-            <p>${conf.title} - ${conf.conference}, ${conf.location}, ${conf.date}</p>
+            <p><ul><li>${conf.title} - ${conf.conference}, ${conf.location}, ${conf.date}</li></ul></p>
         </div>
     `).join('');
 

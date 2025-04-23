@@ -2,7 +2,7 @@
     "name": "Jude Crener Junior Pierre",
     "title": "",
     "tagline": "",
-    "biography": "I am a PhD candidate at Nara Institute of Science and Technology (NAIST), specializing in Natural Language Processing (NLP), a subfield of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). My research focuses on applying NLP techniques to medical data, aiming to retrieve meaningful insights and solve societal problems.",
+    "biography": "I am a PhD candidate at Nara Institute of Science and Technology (NAIST), specializing in Natural Language Processing (NLP). My research focuses on applying NLP techniques to medical data, aiming to retrieve meaningful insights and solve societal problems. In my free time, I enjoy reading, listening to music, playing soccer, and watching Japanese anime.",
     "education": [{
             "degree": "PhD in Information Engineering",
             "institution": "Nara Institute of Science and Technology (NAIST)",
@@ -47,27 +47,31 @@
     "skills": [
         "Python",
         "Javascript",
-        "C/C++",
+        "C/C++ (intermediate level)",
         "SQL",
         "Data Analysis (Numpy, Pandas)",
         "Machine Learning (Scikit-learn)",
         "Deep Learning (pytorch, keras)",
         "Data Visualization (Matplotlib, Seaborn)",
-        "Web Development (Node.js, flask,  React.js, CSS, HTML)"
+        "Web Development (Node.js, flask, CSS, HTML)"
     ],
     "researchInterests": [
         "Social Computing",
-        "Medical Informatics",
-        "Social Media Data Analysis"
+        "Medical Natural Language Processing"
     ],
     "currentProjects": [{
-        "title": "Consectetur adipiscing elit",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        "title": "Data augmentation method using generative AI (LLMs) for low-ressorces dataset",
+        "description": "Explore how Generative AI (LLMs) can address data scarcity in medical datasets, focusing on Named Entity Recognition (NER) task for rare diseases."
     }],
     "pastProjects": [{
-        "title": "Elementum tempus egestas",
-        "description": "Elementum tempus egestas sed sed risus pretium quam vulputate. Bibendum arcu vitae elementum curabitur vitae nunc sed velit dignissim. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Pellentesque dignissim enim sit amet. Consectetur libero id faucibus nisl tincidunt eget nullam non. A lacus vestibulum sed arcu non odio euismod. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Magna ac placerat vestibulum lectus mauris ultrices eros in cursus. "
-    }],
+            "title": "Ph.D. research: Abbreviation Expansion using only a Single Word as Context",
+            "description": "Accurate interpretation of medical abbreviations is vital for clinical decision-making, as given their frequent ambiguity in medical texts often contain ambiguous   abbreviations. The study proposes a simple Word Sense Disambiguation method that uses a single word to determine the meaning of an ambiguous abbreviation in a sentence and to expand it."
+        },
+        {
+            "title": "Master thesis: Analysis of disease and drug trends in medical research literature using Natural Language Processing (NLP) and time series",
+            "description": "Large medical abstracts were collected from the PubMed Database, Named Entity Recognition (NER) was applied to the texts to identify the entities (drugs and diseases) and the relationship between them using linear correlation, and further trend analysis was applied using time series. "
+        }
+    ],
     "publications": [{
         "title": "",
         "authors": " ",
@@ -78,10 +82,10 @@
         "pages": " "
     }],
     "conferences": [{
-        "title": "",
-        "conference": "",
-        "location": "",
-        "date": ""
+        "title": "Jude Crener Junior Pierre, Gabriel Herman Bernardim Andrade, Shaowen Peng, Shuntaro Yada, Shoko Wakamiya, and Eiji Aramaki: Abbreviation Expansion using only a Single Word as Context",
+        "conference": "MEDINFO2025 (Poster paper)",
+        "location": "Taipei, Taiwan",
+        "date": "2025/08/DD"
     }],
     "blogPosts": [{
         "title": "The Future of Personalized Medicine: How AI is Reshaping Healthcare",
