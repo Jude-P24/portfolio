@@ -61,7 +61,7 @@
     ],
     "currentProjects": [{
         "title": "Ph.D. research: Data augmentation method using generative AI (LLMs) for low-ressorces dataset",
-        "description": "Explore how Generative AI (LLMs) can address data scarcity in medical datasets, focusing on Named Entity Recognition (NER) task for rare diseases."
+        "description": "Explore how Generative AI (LLMs) can address data scarcity in medical datasets, focusing on Named Entity Recognition (NER) task."
     }],
     "pastProjects": [{
             "title": "Ph.D. research: Abbreviation Expansion using only a Single Word as Context",
