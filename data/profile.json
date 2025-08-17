@@ -60,7 +60,7 @@
         "Medical Natural Language Processing"
     ],
     "currentProjects": [{
-        "title": "Ph.D. research: Data augmentation method using generative AI (LLMs) for low-ressorces dataset",
+        "title": "Ph.D. research: Data augmentation method using generative AI (LLMs) for low-resources datasets",
         "description": "Explore how Generative AI (LLMs) can address data scarcity in medical datasets, focusing on Named Entity Recognition (NER) task."
     }],
     "pastProjects": [{
@@ -85,7 +85,7 @@
         "title": "Jude Crener Junior Pierre, Gabriel Herman Bernardim Andrade, Shaowen Peng, Shuntaro Yada, Shoko Wakamiya, and Eiji Aramaki: Abbreviation Expansion using only a Single Word as Context",
         "conference": "MEDINFO2025 (Poster paper)",
         "location": "Taipei, Taiwan",
-        "date": "2025/08/DD (to appear)"
+        "date": "2025/08/DD"
     }],
     "blogPosts": [{
         "title": "The Future of Personalized Medicine: How AI is Reshaping Healthcare",
