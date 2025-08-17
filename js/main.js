@@ -55,7 +55,7 @@ function populateContent(data) {
 
     document.getElementById('conference-presentations').innerHTML = data.conferences.map(conf => `
         <div>
-            <p><ul><li>${conf.title} - ${conf.conference}, ${conf.location}, ${conf.date}</li></ul></p>
+            <p><ul><li>${conf.title} - ${conf.conference}, ${conf.location}, ${conf.date}, <span><ahref="#">read article</a></span></li></ul></p>
         </div>
     `).join('');
 
