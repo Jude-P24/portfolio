@@ -106,6 +106,24 @@ h3 {
     color: var(--primary-color);
 }
 
+.download-cv {
+    margin-top: 0.5rem;
+}
+
+.download-cv a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: color 0.3s ease;
+}
+
+.download-cv a:hover {
+    color: var(--primary-color);
+}
+
 .sidebar-nav ul {
     list-style: none;
     padding: 0;
