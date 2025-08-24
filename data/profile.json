@@ -22,7 +22,7 @@
     "experience": [{
             "role": "PhD Student",
             "company": "NAIST",
-            "duration": "2024 - Present",
+            "duration": "April 2024 - Present",
             "description": "Conducting research on Medical Informatics (NAIST Social Computing Laboratory)"
         },
         {
@@ -30,6 +30,12 @@
             "company": "Schneider Electric, HMI Activity, R&D, C&S Team (Osaka, Japan)",
             "duration": "January 2023 - March 2023",
             "description": "Implementing using C/C++ a new communication protocol using MQTT to allow industrial Human Machine Interface (HMI) to send and receive data from the cloud."
+        },
+        {
+            "role": "Research Assistant",
+            "company": "NAIST",
+            "duration": "May 2022 - December 2022",
+            "description": "Data cleaning, Data annotation, Data analysis"
         },
         {
             "role": "Business Risk Analyst",
