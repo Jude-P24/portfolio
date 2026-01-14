@@ -29,7 +29,7 @@
             "role": "Communication Protocol Design Engineer (R&D Internship)",
             "company": "Schneider Electric, HMI Activity, R&D, C&S Team (Osaka, Japan)",
             "duration": "January 2023 - March 2023",
-            "description": "Implementing using C/C++ a new communication protocol using MQTT to allow industrial Human Machine Interface (HMI) to send and receive data from the cloud."
+            "description": "Implementing using C/C++ a new communication protocol using MQTT to allow industrial Human Machine Interface (HMI) to send and receive data to the cloud."
         },
         {
             "role": "Research Assistant",
